@@ -5,8 +5,8 @@
 </div>
 
 <p float="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=CrazyDiamond24&theme=dracula&show_icons=true&rank_icon=github&hide=prs" />
-  <img src="https://i.ibb.co/S3Y9Hmc/Untitled-design-1.png"  /> 
+  <img src="https://github-readme-stats.vercel.app/api?username=CrazyDiamond24&theme=dracula&show_icons=true&rank_icon=github&hide=prs" width="400"/>
+  <img src="https://i.ibb.co/S3Y9Hmc/Untitled-design-1.png"width="400"  /> 
 </p>
 
 
