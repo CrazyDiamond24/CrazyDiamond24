@@ -1,9 +1,17 @@
-### Hi there 👋
+<div align="center">
+  <a href="https://1999azzar.github.io/1999AZZAR/">
+  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
+       alt="snake" /></a>
+</div>
+
+<p float="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=CrazyDiamond24&theme=dracula&show_icons=true&rank_icon=github&hide=prs" />
+  <img src="https://i.ibb.co/S3Y9Hmc/Untitled-design-1.png"  /> 
+</p>
+
 
 <!--
-**CrazyDiamond24/CrazyDiamond24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
