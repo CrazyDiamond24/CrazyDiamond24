@@ -11,7 +11,7 @@
 </p>
 
 <div style="background-color: black; padding: 10px;">
-  <strong style="color: white; font-size: 16px;">🚀 Currently working on a WhatsApp-inspired app in React, 
+  <strong style="color: white; font-size: 16px;">🚀 Currently working on a WhatsApp-inspired app in React,<br>
 utilizing hooks and Socket.IO, packed with a multitude of features on the to-do list! 📋</strong>
 </div>
 <!--
