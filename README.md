@@ -1,3 +1,4 @@
+
 <div align="center">
   <a href="https://1999azzar.github.io/1999AZZAR/">
   <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
@@ -9,7 +10,10 @@
   <img src="https://i.ibb.co/S3Y9Hmc/Untitled-design-1.png"width="400"  /> 
 </p>
 
-
+<div style="background-color: black; padding: 10px;">
+  <strong style="color: white; font-size: 16px;">🚀 Currently working on a WhatsApp-inspired app in React, 
+utilizing hooks and Socket.IO, packed with a multitude of features on our to-do list! 📋</strong>
+</div>
 <!--
 
 
