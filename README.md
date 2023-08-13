@@ -12,8 +12,10 @@
 
 <div style="background-color: black; padding: 10px;">
   <strong style="color: white; font-size: 16px;">🚀 Currently working on a WhatsApp-inspired app in React,<br>
-utilizing hooks and Socket.IO, packed with a multitude of features on the to-do list! 📋</strong>
+utilizing hooks and Socket.IO, packed with a multitude of features on the to-do list! 📋</strong><br>
+  <strong style="color: white; font-size: 14px;">🚧 <a href="https://wuzzapp-oslj.onrender.com/#/" style="color: lightblue;" target="_blank">Check out the project (still in development)</a> 🚧</strong>
 </div>
+
 <!--
 
 
